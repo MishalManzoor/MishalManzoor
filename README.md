@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mishal</h1>
 <h3 align="center">A passionate android developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishal55&label=Profile%20views&color=0e75b6&style=flat" alt="mishal55" /> </p>
 
