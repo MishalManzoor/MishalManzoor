@@ -1,17 +1,21 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png)
 
-<h1 align="center">Hi 👋, I'm Mishal</h1>
+<h1 align="center">Hi 👋, I'm Mishal 📱</h1>
 <h3 align="center">A passionate android developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishal55&label=Profile%20views&color=0e75b6&style=flat" alt="mishal55" /> </p>
 
+- 🌟 Self-driven and constantly learning new technologies to stay on top of the Android ecosystem.
+  
+- 🚀 I enjoy building user-friendly mobile applications. 
+  
 - 💬 Ask me about **Android , Java , Kotlin**
 
 - 📫 How to reach me **mishalm3456@gmail.com**
 
-- ⚡ Fun fact: **I am funny**
+- 🌐 Let's make great apps together!
 
 <!-- <h3 align="left">Connect with me: </h3> -->
 <p align="left">
