@@ -6,10 +6,10 @@
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishal55&label=Profile%20views&color=0e75b6&style=flat" alt="mishal55" /> </p>
+ 
+- 🚀 I enjoy building user-friendly mobile applications.
 
-- 🌟 Self-driven and constantly learning new technologies to stay on top of the Android ecosystem.
-  
-- 🚀 I enjoy building user-friendly mobile applications. 
+- 🌐 Building the future one app at a time.
   
 - 💬 Ask me about **Android , Java , Kotlin**
 
