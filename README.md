@@ -13,7 +13,7 @@
   
 - 💬 Ask me about **Android , Java , Kotlin**
 
-- 📫 How to reach me **mishalm3456@gmail.com**
+- 📫 How to reach me **mishalmanzoor48@gmail.com**
 
 - 🌐 Let's make great apps together!
 
