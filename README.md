@@ -13,8 +13,6 @@
   
 - 💬 Ask me about **Android , Java , Kotlin**
 
-- 📫 How to reach me **mishalmanzoor48@gmail.com**
-
 - 🌐 Let's make great apps together!
 
 <!-- <h3 align="left">Connect with me: </h3> -->
