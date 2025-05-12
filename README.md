@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/936126f9-851c-4557-b569-06da7e47a39f" width="100%">
+<img src="https://github.com/user-attachments/assets/eeb16a56-3c58-4bfa-bca0-ab89591672ea" width="100%">
 
 <h1 align="center">Hi 👋, I'm Mishal 📱</h1>
 <h3 align="center"> 🚀 Passion for crafting user-friendly mobile apps </h3>
