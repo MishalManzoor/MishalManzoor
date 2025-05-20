@@ -1,7 +1,7 @@
 
 ![banner](https://github.com/user-attachments/assets/0fa8d55c-cda8-43c2-ae51-3066d90d14d8)
 
-<h1 align="center">Hi 👋, I'm Mishal 📱</h1>
+<h1 align="center">Hi 👋, I'm Mishal 📱, a self-taught developer with a passion for creating application</h1>
 <h3 align="center"> 🚀 Passion for crafting user-friendly mobile apps </h3>
 
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
